@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f711722-8e92-46bf-a02e-9573cc300fc7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vc1aIphSiYCrxwMCfmWxmx3XMc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\03_React_Js\18_React_With_Routing\src" />
+      <recent name="D:\03_React_Js\18_React_With_Routing\server_2" />
+      <recent name="D:\03_React_Js\18_React_With_Routing\server\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\03_React_Js\19_Employees_Portal\src\components\employees" />
+      <recent name="D:\03_React_Js\19_Employees_Portal\src" />
+      <recent name="D:\03_React_Js\19_Employees_Portal\src\components\Home\About" />
+      <recent name="D:\03_React_Js\18_React_With_Routing\src\components\navbar" />
+      <recent name="D:\03_React_Js\16_useEffect_GitHub_UserSearch\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f711722-8e92-46bf-a02e-9573cc300fc7" name="Default Changelist" comment="" />
+      <created>1626846625008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626846625008</updated>
+      <workItem from="1626846627930" duration="3035000" />
+      <workItem from="1626927671710" duration="3582000" />
+      <workItem from="1626933052680" duration="433000" />
+      <workItem from="1627011385018" duration="263000" />
+      <workItem from="1627015932070" duration="48000" />
+      <workItem from="1627016190344" duration="1419000" />
+      <workItem from="1627017733991" duration="13000" />
+      <workItem from="1627017814094" duration="712000" />
+      <workItem from="1627031912623" duration="81000" />
+      <workItem from="1627032223657" duration="5213000" />
+      <workItem from="1627098390247" duration="11000" />
+      <workItem from="1627098440722" duration="5357000" />
+      <workItem from="1627119443372" duration="1179000" />
+      <workItem from="1627122131091" duration="5731000" />
+      <workItem from="1627129124512" duration="18000" />
+      <workItem from="1627129230399" duration="577000" />
+      <workItem from="1627129950393" duration="2270000" />
+      <workItem from="1627134600917" duration="2590000" />
+      <workItem from="1627139970570" duration="2579000" />
+      <workItem from="1627143367824" duration="640000" />
+      <workItem from="1627273113302" duration="55000" />
+      <workItem from="1627273217108" duration="10365000" />
+      <workItem from="1627287295791" duration="4677000" />
+      <workItem from="1627312342915" duration="52000" />
+      <workItem from="1627312678342" duration="3357000" />
+      <workItem from="1627357131398" duration="1883000" />
+      <workItem from="1627361146251" duration="214000" />
+      <workItem from="1627361747073" duration="240000" />
+      <workItem from="1627362102779" duration="1666000" />
+      <workItem from="1627385078295" duration="5449000" />
+      <workItem from="1627447706711" duration="5855000" />
+      <workItem from="1627460702208" duration="812000" />
+      <workItem from="1627463572149" duration="3858000" />
+      <workItem from="1627468475505" duration="378000" />
+      <workItem from="1627468882525" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

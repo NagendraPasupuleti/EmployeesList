@@ -1,0 +1,45 @@
+.bg-warning,nav {
+    background: linear-gradient(45deg,yellow,orangered);
+    color: white;
+    font-weight: bold;
+}
+.table-success{
+    background: linear-gradient(45deg,red,orange,green);
+}
+.card-header{
+    background: linear-gradient(deeppink,whitesmoke);
+    color:white
+}
+.btn-success{
+ background: linear-gradient(45deg,green,red);
+}
+.text-white{
+    background: linear-gradient(45deg,red,yellow,green);
+    border-radius: 10px;
+    color: whitesmoke;
+}
+body{
+    margin-bottom: 300px;
+}
+ #select{
+     height:30px;
+     margin:16px;
+     width:180px
+
+
+}
+ #button1{
+     width:200px;
+     margin:0 50px 0;
+
+
+ }
+
+ #selectgender{
+     width:345px;
+     margin: 0px 50px;
+ }
+ .mybtn{
+     margin: 0 320px 10px;
+
+ }
